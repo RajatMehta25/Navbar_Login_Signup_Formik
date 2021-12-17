@@ -1,0 +1,28 @@
+.modalnew_textfield{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    
+}
+.btn-close{
+    background-color: red;
+    border-radius: 20px;
+    border:none;
+    color: oldlace;
+    width: 49%;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.submit_btn{
+    background-color: rgb(152, 228, 39);
+    border-radius: 20px;
+    border:none;
+    color: oldlace;
+    width: 49%;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn-align{
+    display: flex;
+    justify-content: space-between;
+}
