@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Navbar_Login_Signup_Formik/static/css/main.e2c073a8.chunk.css",
+    "main.js": "/Navbar_Login_Signup_Formik/static/js/main.f0a55b6a.chunk.js",
+    "main.js.map": "/Navbar_Login_Signup_Formik/static/js/main.f0a55b6a.chunk.js.map",
+    "runtime-main.js": "/Navbar_Login_Signup_Formik/static/js/runtime-main.01abfd3f.js",
+    "runtime-main.js.map": "/Navbar_Login_Signup_Formik/static/js/runtime-main.01abfd3f.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Navbar_Login_Signup_Formik/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.3239cbbe.chunk.js": "/Navbar_Login_Signup_Formik/static/js/2.3239cbbe.chunk.js",
+    "static/js/2.3239cbbe.chunk.js.map": "/Navbar_Login_Signup_Formik/static/js/2.3239cbbe.chunk.js.map",
+    "index.html": "/Navbar_Login_Signup_Formik/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Navbar_Login_Signup_Formik/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.e2c073a8.chunk.css.map": "/Navbar_Login_Signup_Formik/static/css/main.e2c073a8.chunk.css.map",
+    "static/js/2.3239cbbe.chunk.js.LICENSE.txt": "/Navbar_Login_Signup_Formik/static/js/2.3239cbbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01abfd3f.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.3239cbbe.chunk.js",
+    "static/css/main.e2c073a8.chunk.css",
+    "static/js/main.f0a55b6a.chunk.js"
+  ]
+}
