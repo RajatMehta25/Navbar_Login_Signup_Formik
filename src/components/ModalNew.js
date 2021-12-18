@@ -75,7 +75,7 @@ Name==='Login'?
             }
             validationSchema={validate}
             onSubmit={values=> {
-                    toast.success(`${JSON.stringify(values)}`, {
+                    toast.success('Successful', {
              position: "top-center",
                 autoClose: 3000,
                hideProgressBar: false,
